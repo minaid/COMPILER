@@ -1,0 +1,22 @@
+a = 3;
+b = a + 2;
+teststr = "test";
+print(a,teststr,b);
+
+c = 0;
+
+for(i = 0; i < 100; i++)
+	c = c + 1;
+
+print("c = ", c);
+
+if(c == 99)
+	c = -1;
+else
+	c = -2;
+
+{
+	c = c - 1;
+}
+
+print("c = ", c);

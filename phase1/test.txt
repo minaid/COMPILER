@@ -1,0 +1,21 @@
+if    else
+	for
+		nil
+		and
+else if for while
+	break
+	continue function
+	/*
+123
+123.56
+
+/*
+abc*/
+++*/
++
+-
+<=
+<
+!=
+{ } [ ] ( ) .. :: . : ;
+"a\"\tb\nc\\ddd\c"
